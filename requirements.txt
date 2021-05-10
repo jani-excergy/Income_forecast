@@ -117,7 +117,7 @@ python-dateutil==2.8.1
 python-jsonrpc-server==0.4.0
 python-language-server==0.36.2
 pytz==2021.1
-pywin32==300
+pywin32==228
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 pyzmq==21.0.2
@@ -147,10 +147,6 @@ sphinxcontrib-serializinghtml==1.1.4
 spyder==4.2.5
 spyder-kernels==1.10.2
 streamlit==0.79.0
-tensorboard==2.4.1
-tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
-tensorflow-estimator==2.4.0
 termcolor==1.1.0
 terminado==0.9.3
 testpath==0.4.4
@@ -159,9 +155,6 @@ threadpoolctl==2.1.0
 three-merge==0.1.1
 toml==0.10.2
 toolz==0.11.1
-torch==1.7.1
-torchvision==0.4.1
-tornado==6.1
 traitlets==4.3.3
 typed-ast==1.4.2
 typing-extensions==3.7.4.3
