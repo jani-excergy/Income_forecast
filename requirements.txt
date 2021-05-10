@@ -87,7 +87,7 @@ paramiko==2.7.2
 parso==0.7.0
 pathspec==0.8.1
 pexpect==4.8.0
-pickle==0.0.11
+pickle==3.5
 pickleshare==0.7.5
 Pillow==8.0.1
 pluggy==0.13.1
