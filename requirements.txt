@@ -26,7 +26,7 @@ cloudpickle==1.6.0
 colorama==0.4.4
 cryptography==3.4.7
 cycler==0.10.0
-dataclasses==0.8
+dataclasses==0.6
 decorator==4.4.2
 defusedxml==0.7.1
 diff-match-patch==20200713
@@ -113,6 +113,7 @@ PyQt5==5.12.3
 PyQt5-sip==12.8.1
 PyQtWebEngine==5.12.1
 pyrsistent==0.17.3
+python==3.6.0
 python-dateutil==2.8.1
 python-jsonrpc-server==0.4.0
 python-language-server==0.36.2
